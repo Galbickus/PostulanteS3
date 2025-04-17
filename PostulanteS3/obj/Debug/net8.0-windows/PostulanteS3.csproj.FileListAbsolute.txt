@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\bin\Debug\net8.0-windows\PostulanteS3.exe
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\bin\Debug\net8.0-windows\PostulanteS3.deps.json
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\bin\Debug\net8.0-windows\PostulanteS3.runtimeconfig.json
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\bin\Debug\net8.0-windows\PostulanteS3.dll
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\bin\Debug\net8.0-windows\PostulanteS3.pdb
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.FrmPrincipal.resources
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.dll
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\refint\PostulanteS3.dll
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.pdb
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\ref\PostulanteS3.dll
