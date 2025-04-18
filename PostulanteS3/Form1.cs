@@ -23,5 +23,18 @@ namespace PostulanteS3
             MessageBox.Show(mensaje, "Datos Ingresados", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            // Limpiar los TextBox
+            txtNombre.Clear();
+            txtApellido.Clear();
+            txtDocumento.Clear();
+
+            // Limpiar el ComboBox,  restablecerlo a su valor por defecto
+            cboTipo.SelectedIndex = -1;  // Esto deselecciona cualquier elemento en el ComboBox
+
+
+        }
     }
 }

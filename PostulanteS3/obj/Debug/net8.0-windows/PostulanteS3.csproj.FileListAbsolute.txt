@@ -14,3 +14,4 @@ C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\re
 C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.pdb
 C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\ref\PostulanteS3.dll
+C:\Users\ASUS\source\repos\PostulanteS3\PostulanteS3\obj\Debug\net8.0-windows\PostulanteS3.sourcelink.json

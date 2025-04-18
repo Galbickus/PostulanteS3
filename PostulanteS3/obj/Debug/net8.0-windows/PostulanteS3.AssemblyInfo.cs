@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PostulanteS3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7235d5be95c20eedaf36fbc36cc1504996d34a0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3ca062510fc054b9a3e728d921660ad6151b55a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PostulanteS3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PostulanteS3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
